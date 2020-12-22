@@ -7,3 +7,10 @@ One of the big questions you may be thinking, is why are we making AxomOS, isn't
 # What are our goals for AxomOS?
 Two of our bigger goals for AxomOS are: To have a unified platform for both mobile and desktop devices and to have an easy to use API for creating applications for AxomOS.
 
+# Features
+## Implemented
+
+## TODO
+Multi-platform support
+API for creating applications
+Package Manager/App Store
